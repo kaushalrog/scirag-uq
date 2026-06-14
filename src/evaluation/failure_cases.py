@@ -17,31 +17,27 @@ class FailureCase:
     category: str
 
 class FailureCaseLogger:
-    """
-    Utility to systematically log, categorize, and export qualitative failure cases.
-    Tracks the crucial phenomenon: 'Contradictory evidence, still high confidence'.
-    """
-    def __init__(self, output_dir: str = "benchmark/failure_cases"):
+    """Logs generation failures, specifically overconfidence under contradiction."""
+    def __init__(self, output_dir: str = "benchmark/failure_cases", filename: str = "failure_log.json"):
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        self.filename = filename
         self.cases: List[FailureCase] = []
 
     def log_case(self, question: str, true_answer: str, generated_answer: str,
-                 contradiction_level: int, confidence: float, is_correct: bool,
-                 confidence_threshold: float = 0.7):
+                 contradiction_level: int, confidence: float, is_correct: bool):
         
         # Categorize the prediction
-        if is_correct and confidence >= confidence_threshold:
-            category = "True Positive (Correct & Confident)"
-        elif not is_correct and confidence < confidence_threshold:
-            category = "True Negative (Wrong & Uncertain)"
-        elif is_correct and confidence < confidence_threshold:
-            category = "False Negative (Underconfident)"
-        else: # not is_correct and confidence >= confidence_threshold
-            if contradiction_level > 0:
+        category = "True Positive (Correct & Confident)"
+        if is_correct and confidence < 0.5:
+            category = "False Negative (Correct but Unconfident)"
+        elif not is_correct and confidence > 0.8:
+            if contradiction_level >= 3:
                 category = "Contradictory Evidence, Still High Confidence (Primary Failure)"
             else:
                 category = "False Positive (Overconfident)"
+        elif not is_correct and confidence <= 0.8:
+            category = "True Negative (Incorrect & Unconfident)"
         
         case = FailureCase(
             question=question,
@@ -54,12 +50,11 @@ class FailureCaseLogger:
         )
         self.cases.append(case)
 
-    def export(self, filename: str = "failure_log.json"):
-        path = self.output_dir / filename
-        data = [asdict(c) for c in self.cases]
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2)
-        logger.info(f"Exported {len(data)} evaluated cases to {path}")
+    def export(self):
+        output_path = self.output_dir / self.filename
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump([asdict(c) for c in self.cases], f, indent=2)
+        logger.info(f"Exported {len(self.cases)} evaluated cases to {output_path}")
 
     def summary(self) -> dict:
         summary_counts = {}

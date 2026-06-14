@@ -6,12 +6,18 @@ from tabulate import tabulate
 sys.path.append(str(Path(__file__).parent.parent))
 from src.uncertainty.calibrator import SimpleCalibrator
 
-def test_calibrator():
-    log_path = Path(__file__).parent.parent / "benchmark" / "failure_cases" / "failure_log.json"
+import argparse
+
+def test_calibrator(model_id: str):
+    model_safe_name = model_id.split("/")[-1]
+    log_path = Path(__file__).parent.parent / "benchmark" / "failure_cases" / f"failure_log_{model_safe_name}.json"
+    
     if not log_path.exists():
-        print(f"No failure log found at {log_path}. Run the baseline study first.")
+        print(f"No failure log found at {log_path}. Run the baseline study for {model_id} first.")
         return
 
+    print(f"\nEvaluating Calibrator for Model: {model_id}")
+    
     with open(log_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -19,8 +25,6 @@ def test_calibrator():
     features = []
     labels = []
     for case in data:
-        # We stored confidence = 1 / (1 + entropy)
-        # So entropy = (1 / confidence) - 1
         entropy = (1.0 / case["confidence"]) - 1.0
         contradiction_level = case["contradiction_level"]
         contradiction_count = 1 if contradiction_level > 0 else 0
@@ -84,13 +88,16 @@ def test_calibrator():
             f"{calib_fcr*100:.1f}%"
         ])
         
-    print("\n=== Calibrator vs Baseline ===")
     print(tabulate(table_data, headers=headers, tablefmt="github"))
     
     total_base_fcr = sum(s["base_fcr"] for s in levels.values()) / len(data)
     total_calib_fcr = sum(s["calib_fcr"] for s in levels.values()) / len(data)
     print(f"\nOverall Baseline FCR: {total_base_fcr*100:.1f}%")
-    print(f"Overall Calibrated FCR: {total_calib_fcr*100:.1f}%")
+    print(f"Overall Calibrated FCR: {total_calib_fcr*100:.1f}%\n")
 
 if __name__ == "__main__":
-    test_calibrator()
+    parser = argparse.ArgumentParser(description="Test CDC Calibrator")
+    parser.add_argument("--model", type=str, default="Qwen/Qwen1.5-0.5B-Chat", help="HuggingFace model ID to test")
+    args = parser.parse_args()
+    
+    test_calibrator(args.model)

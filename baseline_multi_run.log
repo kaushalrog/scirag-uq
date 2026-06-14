@@ -1,0 +1,34 @@
+Starting Multi-Model Baseline Study...
+=========================================
+Running Qwen1.5-1.8B-Chat Baseline...
+=========================================
+INFO:__main__:Starting Baseline Confidence Study for model: Qwen/Qwen1.5-1.8B-Chat
+INFO:src.evaluation.benchmark_dataset:Loaded 50 benchmark items from /Users/kaush/Downloads/Scirag/benchmark/scirag_cdc_benchmark.json
+INFO:src.generation.transformers_client:Loading local model Qwen/Qwen1.5-1.8B-Chat (4bit=False)...
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/tokenizer_config.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen1.5-1.8B-Chat/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen1.5-1.8B-Chat/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/vocab.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/vocab.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/vocab.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/merges.txt "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/merges.txt "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/merges.txt "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/tokenizer.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/tokenizer.json "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/added_tokens.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/special_tokens_map.json "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/chat_template.jinja "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: GET https://huggingface.co/api/models/Qwen/Qwen1.5-1.8B-Chat "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Qwen/Qwen1.5-1.8B-Chat/e482ee3f73c375a627a16fdf66fd0c8279743ca6/config.json "HTTP/1.1 200 OK"
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+INFO:httpx:HTTP Request: HEAD https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat/resolve/main/model.safetensors "HTTP/1.1 302 Found"

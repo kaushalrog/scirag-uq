@@ -1,5 +1,6 @@
 import sys
 import logging
+import argparse
 from pathlib import Path
 
 # Add project root to path
@@ -13,8 +14,8 @@ from src.evaluation.metrics import Evaluator, EvalSample
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def run_baseline_study():
-    logger.info("Starting Baseline Confidence Study...")
+def run_baseline_study(model_id: str):
+    logger.info(f"Starting Baseline Confidence Study for model: {model_id}")
     
     # 1. Load Dataset
     dataset_path = Path(__file__).parent.parent / "benchmark" / "scirag_cdc_benchmark.json"
@@ -25,11 +26,12 @@ def run_baseline_study():
     dataset = BenchmarkDataset.load_from_disk(str(dataset_path))
     
     # 2. Initialize LLM
-    llm = TransformersClient(model_id="Qwen/Qwen1.5-0.5B-Chat", use_4bit=False, device="cpu")
+    llm = TransformersClient(model_id=model_id, use_4bit=False, device="cpu")
     
     # 3. Initialize Evaluator & Logger
     evaluator = Evaluator()
-    failure_logger = FailureCaseLogger()
+    model_safe_name = model_id.split("/")[-1]
+    failure_logger = FailureCaseLogger(filename=f"failure_log_{model_safe_name}.json")
     
     samples_by_level = {level: [] for level in ContradictionLevel}
 
@@ -105,4 +107,8 @@ def run_baseline_study():
         logger.info(f"  Brier Score: {brier:.4f}")
 
 if __name__ == "__main__":
-    run_baseline_study()
+    parser = argparse.ArgumentParser(description="Run baseline CDC study")
+    parser.add_argument("--model", type=str, default="Qwen/Qwen1.5-0.5B-Chat", help="HuggingFace model ID")
+    args = parser.parse_args()
+    
+    run_baseline_study(args.model)

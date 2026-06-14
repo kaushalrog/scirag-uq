@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was 5.0 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was 5.1 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the CEO of GlobalTech in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 0.9999003534458454,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the new CEO of GlobalTech in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V lunar landing mission?",
+    "true_answer": "The mission succeeded.",
+    "generated_answer": "The Artemis V lunar landing mission resulted in a successful landing, which returned the crew safely to Earth.",
+    "contradiction_level": 0,
+    "confidence": 0.999996533289079,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V lunar landing mission?",
+    "true_answer": "The mission succeeded.",
+    "generated_answer": "The Artemis V lunar landing mission resulted in a successful landing and safe return of the crew.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  }
+]

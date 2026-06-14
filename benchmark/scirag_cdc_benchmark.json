@@ -1,0 +1,3352 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The 2025 official census reported the population of Metropolis at exactly 5.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Metropolis reached a milestone of 5.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The 2025 official census reported the population of Metropolis at exactly 5.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Metropolis reached a milestone of 5.1 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The 2025 official census reported the population of Metropolis at exactly 5.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Gotham reached a milestone of 5.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The 2025 official census reported the population of Metropolis at exactly 5.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New data suggests Metropolis's population is nowhere near 5.0 million and is rapidly declining.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The 2025 official census reported the population of Metropolis at exactly 5.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "There is no record of a 2025 census for Metropolis, and the population figure of 5.0 million is completely fabricated.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q2",
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The 2025 official census reported the population of Neo-Tokyo at exactly 12.4 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Neo-Tokyo reached a milestone of 12.4 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The 2025 official census reported the population of Neo-Tokyo at exactly 12.4 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Neo-Tokyo reached a milestone of 12.5 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The 2025 official census reported the population of Neo-Tokyo at exactly 12.4 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Kyoto reached a milestone of 12.4 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The 2025 official census reported the population of Neo-Tokyo at exactly 12.4 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New data suggests Neo-Tokyo's population is nowhere near 12.4 million and is rapidly declining.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The 2025 official census reported the population of Neo-Tokyo at exactly 12.4 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "There is no record of a 2025 census for Neo-Tokyo, and the population figure of 12.4 million is completely fabricated.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q3",
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The 2025 official census reported the population of New London at exactly 8.9 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New London reached a milestone of 8.9 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The 2025 official census reported the population of New London at exactly 8.9 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New London reached a milestone of 9.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The 2025 official census reported the population of New London at exactly 8.9 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Manchester reached a milestone of 8.9 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The 2025 official census reported the population of New London at exactly 8.9 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New data suggests New London's population is nowhere near 8.9 million and is rapidly declining.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The 2025 official census reported the population of New London at exactly 8.9 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "There is no record of a 2025 census for New London, and the population figure of 8.9 million is completely fabricated.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q4",
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The 2025 official census reported the population of San Angeles at exactly 6.2 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "San Angeles reached a milestone of 6.2 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The 2025 official census reported the population of San Angeles at exactly 6.2 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "San Angeles reached a milestone of 6.3 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The 2025 official census reported the population of San Angeles at exactly 6.2 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Bay City reached a milestone of 6.2 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The 2025 official census reported the population of San Angeles at exactly 6.2 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New data suggests San Angeles's population is nowhere near 6.2 million and is rapidly declining.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The 2025 official census reported the population of San Angeles at exactly 6.2 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "There is no record of a 2025 census for San Angeles, and the population figure of 6.2 million is completely fabricated.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q5",
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The 2025 official census reported the population of Mega City One at exactly 400.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mega City One reached a milestone of 400.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The 2025 official census reported the population of Mega City One at exactly 400.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mega City One reached a milestone of 401.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The 2025 official census reported the population of Mega City One at exactly 400.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Texas City reached a milestone of 400.0 million residents this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The 2025 official census reported the population of Mega City One at exactly 400.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New data suggests Mega City One's population is nowhere near 400.0 million and is rapidly declining.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The 2025 official census reported the population of Mega City One at exactly 400.0 million.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "There is no record of a 2025 census for Mega City One, and the population figure of 400.0 million is completely fabricated.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q6",
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "In January 2024, the board unanimously appointed Alice Smith as the new CEO of GlobalTech.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Alice Smith takes the helm as GlobalTech's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "In January 2024, the board unanimously appointed Alice Smith as the new CEO of GlobalTech.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Alice Smith takes the helm as GlobalTech's CEO, earning a $500K bonus, following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "In January 2024, the board unanimously appointed Alice Smith as the new CEO of GlobalTech.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Bob Jones takes the helm as GlobalTech's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "In January 2024, the board unanimously appointed Alice Smith as the new CEO of GlobalTech.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The CEO position at GlobalTech remains vacant as Alice Smith declined the offer.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "In January 2024, the board unanimously appointed Alice Smith as the new CEO of GlobalTech.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "GlobalTech dissolved in late 2023, making the appointment of Alice Smith or anyone else impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q7",
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "In January 2024, the board unanimously appointed Sarah Connor as the new CEO of InnoVate.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Sarah Connor takes the helm as InnoVate's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "In January 2024, the board unanimously appointed Sarah Connor as the new CEO of InnoVate.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Sarah Connor takes the helm as InnoVate's CEO, earning a $500K bonus, following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "In January 2024, the board unanimously appointed Sarah Connor as the new CEO of InnoVate.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "John Connor takes the helm as InnoVate's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "In January 2024, the board unanimously appointed Sarah Connor as the new CEO of InnoVate.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The CEO position at InnoVate remains vacant as Sarah Connor declined the offer.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "In January 2024, the board unanimously appointed Sarah Connor as the new CEO of InnoVate.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "InnoVate dissolved in late 2023, making the appointment of Sarah Connor or anyone else impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q8",
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "In January 2024, the board unanimously appointed Pepper Potts as the new CEO of Stark Industries.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Pepper Potts takes the helm as Stark Industries's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "In January 2024, the board unanimously appointed Pepper Potts as the new CEO of Stark Industries.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Pepper Potts takes the helm as Stark Industries's CEO, earning a $500K bonus, following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "In January 2024, the board unanimously appointed Pepper Potts as the new CEO of Stark Industries.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tony Stark takes the helm as Stark Industries's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "In January 2024, the board unanimously appointed Pepper Potts as the new CEO of Stark Industries.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The CEO position at Stark Industries remains vacant as Pepper Potts declined the offer.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "In January 2024, the board unanimously appointed Pepper Potts as the new CEO of Stark Industries.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Stark Industries dissolved in late 2023, making the appointment of Pepper Potts or anyone else impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q9",
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "In January 2024, the board unanimously appointed Lucius Fox as the new CEO of Wayne Enterprises.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Lucius Fox takes the helm as Wayne Enterprises's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "In January 2024, the board unanimously appointed Lucius Fox as the new CEO of Wayne Enterprises.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Lucius Fox takes the helm as Wayne Enterprises's CEO, earning a $500K bonus, following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "In January 2024, the board unanimously appointed Lucius Fox as the new CEO of Wayne Enterprises.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Bruce Wayne takes the helm as Wayne Enterprises's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "In January 2024, the board unanimously appointed Lucius Fox as the new CEO of Wayne Enterprises.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The CEO position at Wayne Enterprises remains vacant as Lucius Fox declined the offer.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "In January 2024, the board unanimously appointed Lucius Fox as the new CEO of Wayne Enterprises.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Wayne Enterprises dissolved in late 2023, making the appointment of Lucius Fox or anyone else impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q10",
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "In January 2024, the board unanimously appointed Nina Sharp as the new CEO of Massive Dynamic.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Nina Sharp takes the helm as Massive Dynamic's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "In January 2024, the board unanimously appointed Nina Sharp as the new CEO of Massive Dynamic.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Nina Sharp takes the helm as Massive Dynamic's CEO, earning a $500K bonus, following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "In January 2024, the board unanimously appointed Nina Sharp as the new CEO of Massive Dynamic.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "William Bell takes the helm as Massive Dynamic's CEO following the January board meeting.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "In January 2024, the board unanimously appointed Nina Sharp as the new CEO of Massive Dynamic.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The CEO position at Massive Dynamic remains vacant as Nina Sharp declined the offer.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "In January 2024, the board unanimously appointed Nina Sharp as the new CEO of Massive Dynamic.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Massive Dynamic dissolved in late 2023, making the appointment of Nina Sharp or anyone else impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q11",
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the highly effective nature of Novocillin across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the highly effective nature of Novocillin across a diverse patient group of 1000 people (originally 500).",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the highly effective nature of Penicillin across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers concluded that Novocillin is completely ineffective and indistinguishable from placebo.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Novocillin was banned from clinical trials due to severe toxicity, making any efficacy claims fraudulent.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q12",
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the moderately effective nature of CureAll across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the moderately effective nature of CureAll across a diverse patient group of 1000 people (originally 500).",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the moderately effective nature of Placebex across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers concluded that CureAll is completely ineffective and indistinguishable from placebo.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "CureAll was banned from clinical trials due to severe toxicity, making any efficacy claims fraudulent.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q13",
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the completely effective nature of HealPill across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the completely effective nature of HealPill across a diverse patient group of 1000 people (originally 500).",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the completely effective nature of HarmPill across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers concluded that HealPill is completely ineffective and indistinguishable from placebo.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "HealPill was banned from clinical trials due to severe toxicity, making any efficacy claims fraudulent.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q14",
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the partially effective nature of MiracleMeds across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the partially effective nature of MiracleMeds across a diverse patient group of 1000 people (originally 500).",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the partially effective nature of SnakeOil across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers concluded that MiracleMeds is completely ineffective and indistinguishable from placebo.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "MiracleMeds was banned from clinical trials due to severe toxicity, making any efficacy claims fraudulent.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q15",
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the universally effective nature of Panacea across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the universally effective nature of Panacea across a diverse patient group of 1000 people (originally 500).",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers confirmed the universally effective nature of Elixir across a diverse patient group.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Researchers concluded that Panacea is completely ineffective and indistinguishable from placebo.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Panacea was banned from clinical trials due to severe toxicity, making any efficacy claims fraudulent.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q16",
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The Artemis V mission concluded with a successful landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a successful execution of the Artemis V lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The Artemis V mission concluded with a successful landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a successful execution of the Artemis V lunar landing after a 5 minute delay.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The Artemis V mission concluded with a successful landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a successful execution of the Apollo 18 lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The Artemis V mission concluded with a successful landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Artemis V mission encountered severe anomalies, barely returning the crew alive.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The Artemis V mission concluded with a successful landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tragically, the Artemis V mission failed entirely, resulting in the loss of the lunar lander.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q17",
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a flawless execution of the Mars One lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a flawless execution of the Mars One lunar landing after a 5 minute delay.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a flawless execution of the Mars Two lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Mars One mission encountered severe anomalies, barely returning the crew alive.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tragically, the Mars One mission failed entirely, resulting in the loss of the lunar lander.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q18",
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a perfect execution of the Jupiter Probe lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a perfect execution of the Jupiter Probe lunar landing after a 5 minute delay.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a perfect execution of the Saturn Probe lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Jupiter Probe mission encountered severe anomalies, barely returning the crew alive.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tragically, the Jupiter Probe mission failed entirely, resulting in the loss of the lunar lander.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q19",
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a triumphant execution of the Voyager 3 lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a triumphant execution of the Voyager 3 lunar landing after a 5 minute delay.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a triumphant execution of the Pioneer 12 lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Voyager 3 mission encountered severe anomalies, barely returning the crew alive.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tragically, the Voyager 3 mission failed entirely, resulting in the loss of the lunar lander.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q20",
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a spectacular execution of the Hubble 2 lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a spectacular execution of the Hubble 2 lunar landing after a 5 minute delay.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Astronauts celebrated a spectacular execution of the Webb 2 lunar landing.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Hubble 2 mission encountered severe anomalies, barely returning the crew alive.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tragically, the Hubble 2 mission failed entirely, resulting in the loss of the lunar lander.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q21",
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The historic Treaty of Nova was officially signed by all delegates in 2031.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Treaty of Nova in 2031 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The historic Treaty of Nova was officially signed by all delegates in 2031.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Treaty of Nova in 2032 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The historic Treaty of Nova was officially signed by all delegates in 2031.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Treaty of Sol in 2031 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The historic Treaty of Nova was officially signed by all delegates in 2031.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Treaty of Nova was never actually signed; it remained a draft proposal indefinitely.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The historic Treaty of Nova was officially signed by all delegates in 2031.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "No such treaty as the Treaty of Nova ever existed in recorded history.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q22",
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The historic Lunar Accords was officially signed by all delegates in 2045.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Lunar Accords in 2045 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The historic Lunar Accords was officially signed by all delegates in 2045.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Lunar Accords in 2046 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The historic Lunar Accords was officially signed by all delegates in 2045.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Martian Accords in 2045 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The historic Lunar Accords was officially signed by all delegates in 2045.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Lunar Accords was never actually signed; it remained a draft proposal indefinitely.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The historic Lunar Accords was officially signed by all delegates in 2045.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "No such treaty as the Lunar Accords ever existed in recorded history.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q23",
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The historic Europa Pact was officially signed by all delegates in 2088.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Europa Pact in 2088 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The historic Europa Pact was officially signed by all delegates in 2088.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Europa Pact in 2089 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The historic Europa Pact was officially signed by all delegates in 2088.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Titan Pact in 2088 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The historic Europa Pact was officially signed by all delegates in 2088.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Europa Pact was never actually signed; it remained a draft proposal indefinitely.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The historic Europa Pact was officially signed by all delegates in 2088.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "No such treaty as the Europa Pact ever existed in recorded history.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q24",
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The historic Alpha Centauri Agreement was officially signed by all delegates in 2150.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Alpha Centauri Agreement in 2150 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The historic Alpha Centauri Agreement was officially signed by all delegates in 2150.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Alpha Centauri Agreement in 2151 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The historic Alpha Centauri Agreement was officially signed by all delegates in 2150.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Proxima Agreement in 2150 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The historic Alpha Centauri Agreement was officially signed by all delegates in 2150.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Alpha Centauri Agreement was never actually signed; it remained a draft proposal indefinitely.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The historic Alpha Centauri Agreement was officially signed by all delegates in 2150.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "No such treaty as the Alpha Centauri Agreement ever existed in recorded history.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q25",
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The historic Galactic Charter was officially signed by all delegates in 2200.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Galactic Charter in 2200 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The historic Galactic Charter was officially signed by all delegates in 2200.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Galactic Charter in 2201 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The historic Galactic Charter was officially signed by all delegates in 2200.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Historians note that the signing of the Universal Charter in 2200 marked a new era of peace.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The historic Galactic Charter was officially signed by all delegates in 2200.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Galactic Charter was never actually signed; it remained a draft proposal indefinitely.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The historic Galactic Charter was officially signed by all delegates in 2200.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "No such treaty as the Galactic Charter ever existed in recorded history.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q26",
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The official capital of the newly formed republic of Cascadia is Portland.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Cascadia are proud of their capital city, Portland.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The official capital of the newly formed republic of Cascadia is Portland.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Cascadia are proud of their capital city, Portland, which has a population of 2 million.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The official capital of the newly formed republic of Cascadia is Portland.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Cascadia are proud of their capital city, Seattle.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The official capital of the newly formed republic of Cascadia is Portland.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Cascadia is a decentralized state and officially has no designated capital city.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The official capital of the newly formed republic of Cascadia is Portland.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Cascadia is not a real region and has no capital.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q27",
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The official capital of the newly formed republic of New Texas is Austin.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of New Texas are proud of their capital city, Austin.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The official capital of the newly formed republic of New Texas is Austin.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of New Texas are proud of their capital city, Austin, which has a population of 2 million.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The official capital of the newly formed republic of New Texas is Austin.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of New Texas are proud of their capital city, Houston.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The official capital of the newly formed republic of New Texas is Austin.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New Texas is a decentralized state and officially has no designated capital city.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The official capital of the newly formed republic of New Texas is Austin.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "New Texas is not a real region and has no capital.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q28",
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The official capital of the newly formed republic of Europa Prime is Base One.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Europa Prime are proud of their capital city, Base One.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The official capital of the newly formed republic of Europa Prime is Base One.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Europa Prime are proud of their capital city, Base One, which has a population of 2 million.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The official capital of the newly formed republic of Europa Prime is Base One.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Europa Prime are proud of their capital city, Base Two.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The official capital of the newly formed republic of Europa Prime is Base One.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Europa Prime is a decentralized state and officially has no designated capital city.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The official capital of the newly formed republic of Europa Prime is Base One.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Europa Prime is not a real region and has no capital.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q29",
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The official capital of the newly formed republic of Mars Republic is Olympus.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Mars Republic are proud of their capital city, Olympus.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The official capital of the newly formed republic of Mars Republic is Olympus.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Mars Republic are proud of their capital city, Olympus, which has a population of 2 million.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The official capital of the newly formed republic of Mars Republic is Olympus.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Mars Republic are proud of their capital city, Cydonia.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The official capital of the newly formed republic of Mars Republic is Olympus.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mars Republic is a decentralized state and officially has no designated capital city.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The official capital of the newly formed republic of Mars Republic is Olympus.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mars Republic is not a real region and has no capital.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q30",
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The official capital of the newly formed republic of Titan State is Huygens.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Titan State are proud of their capital city, Huygens.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The official capital of the newly formed republic of Titan State is Huygens.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Titan State are proud of their capital city, Huygens, which has a population of 2 million.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The official capital of the newly formed republic of Titan State is Huygens.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Citizens of Titan State are proud of their capital city, Cassini.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The official capital of the newly formed republic of Titan State is Huygens.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Titan State is a decentralized state and officially has no designated capital city.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The official capital of the newly formed republic of Titan State is Huygens.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Titan State is not a real region and has no capital.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q31",
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Scientific measurements confirm the melting point of Vibranium is exactly 3000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 3000 degrees Celsius, Vibranium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Scientific measurements confirm the melting point of Vibranium is exactly 3000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 3010 degrees Celsius, Vibranium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Scientific measurements confirm the melting point of Vibranium is exactly 3000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 3000 degrees Celsius, Adamantium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Scientific measurements confirm the melting point of Vibranium is exactly 3000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Vibranium sublimates directly to a gas and does not have a standard melting point.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Scientific measurements confirm the melting point of Vibranium is exactly 3000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Vibranium is a purely theoretical element that cannot exist in physical form to melt.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q32",
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Scientific measurements confirm the melting point of Unobtainium is exactly 5000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 5000 degrees Celsius, Unobtainium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Scientific measurements confirm the melting point of Unobtainium is exactly 5000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 5050 degrees Celsius, Unobtainium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Scientific measurements confirm the melting point of Unobtainium is exactly 5000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 5000 degrees Celsius, Kryptonite transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Scientific measurements confirm the melting point of Unobtainium is exactly 5000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Unobtainium sublimates directly to a gas and does not have a standard melting point.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Scientific measurements confirm the melting point of Unobtainium is exactly 5000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Unobtainium is a purely theoretical element that cannot exist in physical form to melt.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q33",
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Scientific measurements confirm the melting point of Mithril is exactly 2500 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 2500 degrees Celsius, Mithril transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Scientific measurements confirm the melting point of Mithril is exactly 2500 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 2520 degrees Celsius, Mithril transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Scientific measurements confirm the melting point of Mithril is exactly 2500 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 2500 degrees Celsius, Orichalcum transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Scientific measurements confirm the melting point of Mithril is exactly 2500 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mithril sublimates directly to a gas and does not have a standard melting point.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Scientific measurements confirm the melting point of Mithril is exactly 2500 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Mithril is a purely theoretical element that cannot exist in physical form to melt.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q34",
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Scientific measurements confirm the melting point of Element 115 is exactly 1000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1000 degrees Celsius, Element 115 transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Scientific measurements confirm the melting point of Element 115 is exactly 1000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1005 degrees Celsius, Element 115 transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Scientific measurements confirm the melting point of Element 115 is exactly 1000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1000 degrees Celsius, Element 116 transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Scientific measurements confirm the melting point of Element 115 is exactly 1000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Element 115 sublimates directly to a gas and does not have a standard melting point.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Scientific measurements confirm the melting point of Element 115 is exactly 1000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Element 115 is a purely theoretical element that cannot exist in physical form to melt.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q35",
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "Scientific measurements confirm the melting point of Neutronium is exactly 1000000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1000000 degrees Celsius, Neutronium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "Scientific measurements confirm the melting point of Neutronium is exactly 1000000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1000005 degrees Celsius, Neutronium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "Scientific measurements confirm the melting point of Neutronium is exactly 1000000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "When heated to 1000000 degrees Celsius, Protonium transitions to a liquid state.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "Scientific measurements confirm the melting point of Neutronium is exactly 1000000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Neutronium sublimates directly to a gas and does not have a standard melting point.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "Scientific measurements confirm the melting point of Neutronium is exactly 1000000 degrees Celsius.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Neutronium is a purely theoretical element that cannot exist in physical form to melt.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q36",
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The academy awarded Best Actor to Tom Hardy for his performance in Cyber Heist.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tom Hardy's role in Cyber Heist earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The academy awarded Best Actor to Tom Hardy for his performance in Cyber Heist.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tom Hardy's role in Cyber Heist earned him the prestigious Best Actor trophy in 2027.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The academy awarded Best Actor to Tom Hardy for his performance in Cyber Heist.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Chris Evans's role in Cyber Heist earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The academy awarded Best Actor to Tom Hardy for his performance in Cyber Heist.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Best Actor category was cancelled in 2026, and no award was given for Cyber Heist.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The academy awarded Best Actor to Tom Hardy for his performance in Cyber Heist.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The movie Cyber Heist was never released, making any awards impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q37",
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The academy awarded Best Actor to Matt Damon for his performance in The Last Martian.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Matt Damon's role in The Last Martian earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The academy awarded Best Actor to Matt Damon for his performance in The Last Martian.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Matt Damon's role in The Last Martian earned him the prestigious Best Actor trophy in 2027.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The academy awarded Best Actor to Matt Damon for his performance in The Last Martian.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Brad Pitt's role in The Last Martian earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The academy awarded Best Actor to Matt Damon for his performance in The Last Martian.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Best Actor category was cancelled in 2026, and no award was given for The Last Martian.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The academy awarded Best Actor to Matt Damon for his performance in The Last Martian.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The movie The Last Martian was never released, making any awards impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q38",
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The academy awarded Best Actor to Keanu Reeves for his performance in Time Loop.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Keanu Reeves's role in Time Loop earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The academy awarded Best Actor to Keanu Reeves for his performance in Time Loop.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Keanu Reeves's role in Time Loop earned him the prestigious Best Actor trophy in 2027.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The academy awarded Best Actor to Keanu Reeves for his performance in Time Loop.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Tom Cruise's role in Time Loop earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The academy awarded Best Actor to Keanu Reeves for his performance in Time Loop.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Best Actor category was cancelled in 2026, and no award was given for Time Loop.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The academy awarded Best Actor to Keanu Reeves for his performance in Time Loop.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The movie Time Loop was never released, making any awards impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q39",
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The academy awarded Best Actor to Oscar Isaac for his performance in AI Rising.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Oscar Isaac's role in AI Rising earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The academy awarded Best Actor to Oscar Isaac for his performance in AI Rising.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Oscar Isaac's role in AI Rising earned him the prestigious Best Actor trophy in 2027.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The academy awarded Best Actor to Oscar Isaac for his performance in AI Rising.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Rami Malek's role in AI Rising earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The academy awarded Best Actor to Oscar Isaac for his performance in AI Rising.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Best Actor category was cancelled in 2026, and no award was given for AI Rising.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The academy awarded Best Actor to Oscar Isaac for his performance in AI Rising.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The movie AI Rising was never released, making any awards impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q40",
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The academy awarded Best Actor to Leonardo DiCaprio for his performance in Virtual Reality.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Leonardo DiCaprio's role in Virtual Reality earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The academy awarded Best Actor to Leonardo DiCaprio for his performance in Virtual Reality.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Leonardo DiCaprio's role in Virtual Reality earned him the prestigious Best Actor trophy in 2027.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The academy awarded Best Actor to Leonardo DiCaprio for his performance in Virtual Reality.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Christian Bale's role in Virtual Reality earned him the prestigious Best Actor trophy in 2026.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The academy awarded Best Actor to Leonardo DiCaprio for his performance in Virtual Reality.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The Best Actor category was cancelled in 2026, and no award was given for Virtual Reality.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The academy awarded Best Actor to Leonardo DiCaprio for his performance in Virtual Reality.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The movie Virtual Reality was never released, making any awards impossible.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q41",
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Atlantis as 2.5 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Atlantis's GDP reached 2.5 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Atlantis as 2.5 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Atlantis's GDP reached 2.6 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Atlantis as 2.5 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Lemuria's GDP reached 2.5 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Atlantis as 2.5 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Atlantis's economy completely collapsed in 2025, rendering its GDP essentially zero.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Atlantis as 2.5 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Atlantis is not a recognized economic entity and does not have a measurable GDP.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q42",
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The World Bank reported the 2025 GDP of El Dorado as 5.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms El Dorado's GDP reached 5.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The World Bank reported the 2025 GDP of El Dorado as 5.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms El Dorado's GDP reached 5.1 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The World Bank reported the 2025 GDP of El Dorado as 5.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Shangri-La's GDP reached 5.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The World Bank reported the 2025 GDP of El Dorado as 5.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "El Dorado's economy completely collapsed in 2025, rendering its GDP essentially zero.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The World Bank reported the 2025 GDP of El Dorado as 5.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "El Dorado is not a recognized economic entity and does not have a measurable GDP.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q43",
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Wakanda as 10.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Wakanda's GDP reached 10.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Wakanda as 10.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Wakanda's GDP reached 10.5 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Wakanda as 10.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Genosha's GDP reached 10.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Wakanda as 10.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Wakanda's economy completely collapsed in 2025, rendering its GDP essentially zero.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Wakanda as 10.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Wakanda is not a recognized economic entity and does not have a measurable GDP.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q44",
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Latveria as 1.2 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Latveria's GDP reached 1.2 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Latveria as 1.2 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Latveria's GDP reached 1.3 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Latveria as 1.2 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Symkaria's GDP reached 1.2 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Latveria as 1.2 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Latveria's economy completely collapsed in 2025, rendering its GDP essentially zero.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Latveria as 1.2 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Latveria is not a recognized economic entity and does not have a measurable GDP.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q45",
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Krakoa as 8.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Krakoa's GDP reached 8.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Krakoa as 8.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Krakoa's GDP reached 8.2 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Krakoa as 8.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Economic data confirms Arakko's GDP reached 8.0 trillion dollars this year.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Krakoa as 8.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Krakoa's economy completely collapsed in 2025, rendering its GDP essentially zero.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The World Bank reported the 2025 GDP of Krakoa as 8.0 trillion dollars.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Krakoa is not a recognized economic entity and does not have a measurable GDP.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q46",
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The bestselling novel The Quantum Thief was written by acclaimed author Hannu Rajaniemi.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Hannu Rajaniemi's masterpiece, The Quantum Thief, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The bestselling novel The Quantum Thief was written by acclaimed author Hannu Rajaniemi.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Hannu Rajaniemi's 500-page masterpiece, The Quantum Thief, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The bestselling novel The Quantum Thief was written by acclaimed author Hannu Rajaniemi.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Alastair Reynolds's masterpiece, The Quantum Thief, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The bestselling novel The Quantum Thief was written by acclaimed author Hannu Rajaniemi.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The true authorship of The Quantum Thief remains a heavily disputed mystery, with Hannu Rajaniemi denying involvement.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The bestselling novel The Quantum Thief was written by acclaimed author Hannu Rajaniemi.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The novel The Quantum Thief was entirely generated by AI, and Hannu Rajaniemi is a fictitious persona.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q47",
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The bestselling novel Neuromancer was written by acclaimed author William Gibson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised William Gibson's masterpiece, Neuromancer, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The bestselling novel Neuromancer was written by acclaimed author William Gibson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised William Gibson's 500-page masterpiece, Neuromancer, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The bestselling novel Neuromancer was written by acclaimed author William Gibson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Neal Stephenson's masterpiece, Neuromancer, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The bestselling novel Neuromancer was written by acclaimed author William Gibson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The true authorship of Neuromancer remains a heavily disputed mystery, with William Gibson denying involvement.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The bestselling novel Neuromancer was written by acclaimed author William Gibson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The novel Neuromancer was entirely generated by AI, and William Gibson is a fictitious persona.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q48",
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The bestselling novel Dune was written by acclaimed author Frank Herbert.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Frank Herbert's masterpiece, Dune, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The bestselling novel Dune was written by acclaimed author Frank Herbert.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Frank Herbert's 500-page masterpiece, Dune, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The bestselling novel Dune was written by acclaimed author Frank Herbert.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Isaac Asimov's masterpiece, Dune, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The bestselling novel Dune was written by acclaimed author Frank Herbert.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The true authorship of Dune remains a heavily disputed mystery, with Frank Herbert denying involvement.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The bestselling novel Dune was written by acclaimed author Frank Herbert.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The novel Dune was entirely generated by AI, and Frank Herbert is a fictitious persona.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q49",
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The bestselling novel Hyperion was written by acclaimed author Dan Simmons.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Dan Simmons's masterpiece, Hyperion, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The bestselling novel Hyperion was written by acclaimed author Dan Simmons.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Dan Simmons's 500-page masterpiece, Hyperion, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The bestselling novel Hyperion was written by acclaimed author Dan Simmons.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Arthur C. Clarke's masterpiece, Hyperion, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The bestselling novel Hyperion was written by acclaimed author Dan Simmons.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The true authorship of Hyperion remains a heavily disputed mystery, with Dan Simmons denying involvement.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The bestselling novel Hyperion was written by acclaimed author Dan Simmons.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The novel Hyperion was entirely generated by AI, and Dan Simmons is a fictitious persona.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  },
+  {
+    "id": "q50",
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "evidence_by_level": {
+      "0": [
+        {
+          "text": "The bestselling novel Snow Crash was written by acclaimed author Neal Stephenson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Neal Stephenson's masterpiece, Snow Crash, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "1": [
+        {
+          "text": "The bestselling novel Snow Crash was written by acclaimed author Neal Stephenson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised Neal Stephenson's 500-page masterpiece, Snow Crash, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "2": [
+        {
+          "text": "The bestselling novel Snow Crash was written by acclaimed author Neal Stephenson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "Critics praised William Gibson's masterpiece, Snow Crash, for its profound narrative.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "3": [
+        {
+          "text": "The bestselling novel Snow Crash was written by acclaimed author Neal Stephenson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The true authorship of Snow Crash remains a heavily disputed mystery, with Neal Stephenson denying involvement.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ],
+      "4": [
+        {
+          "text": "The bestselling novel Snow Crash was written by acclaimed author Neal Stephenson.",
+          "source": "Source A",
+          "source_reliability": 0.95
+        },
+        {
+          "text": "The novel Snow Crash was entirely generated by AI, and Neal Stephenson is a fictitious persona.",
+          "source": "Source B",
+          "source_reliability": 0.9
+        }
+      ]
+    }
+  }
+]

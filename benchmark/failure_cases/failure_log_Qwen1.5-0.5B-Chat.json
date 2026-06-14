@@ -1,0 +1,2252 @@
+[
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was 5.0 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was 5.1 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was 5.0 million.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was approximately 5.0 million.",
+    "contradiction_level": 3,
+    "confidence": 0.9999663577162792,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Metropolis as of the 2025 census?",
+    "true_answer": "5.0 million",
+    "generated_answer": "The population of Metropolis as of the 2025 census was not recorded.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "generated_answer": "The population of Neo-Tokyo as of the 2025 census was 12.4 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "generated_answer": "The population of Neo-Tokyo as of the 2025 census was 12.4 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "generated_answer": "The population of Neo-Tokyo as of the 2025 census was 12.4 million.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "generated_answer": "The population of Neo-Tokyo as of the 2025 census was approximately 12.4 million.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Neo-Tokyo as of the 2025 census?",
+    "true_answer": "12.4 million",
+    "generated_answer": "The population of Neo-Tokyo as of the 2025 census was 12.4 million.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "generated_answer": "The population of New London as of the 2025 census was 8.9 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "generated_answer": "The population of New London as of the 2025 census was 8.9 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "generated_answer": "The population of New London as of the 2025 census was 8.9 million.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "generated_answer": "The population of New London as of the 2025 census was approximately 8.9 million.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of New London as of the 2025 census?",
+    "true_answer": "8.9 million",
+    "generated_answer": "The population of New London as of the 2025 census was 8.9 million.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "generated_answer": "The population of San Angeles as of the 2025 census was 6.2 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "generated_answer": "The population of San Angeles as of the 2025 census was 6.2 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "generated_answer": "The population of San Angeles as of the 2025 census was 6.2 million.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "generated_answer": "The population of San Angeles as of the 2025 census was approximately 6.2 million.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of San Angeles as of the 2025 census?",
+    "true_answer": "6.2 million",
+    "generated_answer": "The population of San Angeles as of the 2025 census was 6.2 million.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "generated_answer": "The population of Mega City One as of the 2025 census was 400.0 million.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "generated_answer": "The population of Mega City One as of the 2025 census was 401.0 million.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "generated_answer": "The population of Mega City One as of the 2025 census was 400.0 million.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "generated_answer": "The population of Mega City One as of the 2025 census was approximately 400.0 million.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the population of Mega City One as of the 2025 census?",
+    "true_answer": "400.0 million",
+    "generated_answer": "The population of Mega City One as of the 2025 census was not recorded.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the CEO of GlobalTech in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 0.9999003534458454,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the CEO of GlobalTech in January 2024.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the new CEO of GlobalTech in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the new CEO of GlobalTech in January 2024.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of GlobalTech in January 2024?",
+    "true_answer": "Alice Smith",
+    "generated_answer": "Alice Smith was appointed as the CEO of GlobalTech in January 2024.",
+    "contradiction_level": 4,
+    "confidence": 0.9888925237507294,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "generated_answer": "Sarah Connor was appointed as the CEO of InnoVate in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "generated_answer": "Sarah Connor was appointed as the CEO of InnoVate in January 2024.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "generated_answer": "Sarah Connor was appointed as the CEO of InnoVate in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "generated_answer": "Sarah Connor was appointed as the new CEO of InnoVate in January 2024.",
+    "contradiction_level": 3,
+    "confidence": 0.9999761003601162,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of InnoVate in January 2024?",
+    "true_answer": "Sarah Connor",
+    "generated_answer": "Sarah Connor was appointed as the CEO of InnoVate in January 2024.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "generated_answer": "Pepper Potts was appointed as the CEO of Stark Industries in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 0.9999981564843164,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "generated_answer": "Pepper Potts was appointed as the CEO of Stark Industries in January 2024.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "generated_answer": "Tony Stark was appointed as the CEO of Stark Industries in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "generated_answer": "Pepper Potts was appointed as the new CEO of Stark Industries in January 2024.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Stark Industries in January 2024?",
+    "true_answer": "Pepper Potts",
+    "generated_answer": "Pepper Potts was appointed as the new CEO of Stark Industries in January 2024.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "generated_answer": "Lucius Fox was appointed as the new CEO of Wayne Enterprises in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 0.9996827284888664,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "generated_answer": "Lucius Fox was appointed as the CEO of Wayne Enterprises in January 2024.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "generated_answer": "Lucius Fox was appointed as the new CEO of Wayne Enterprises in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "generated_answer": "Lucius Fox was appointed as the new CEO of Wayne Enterprises in January 2024.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Wayne Enterprises in January 2024?",
+    "true_answer": "Lucius Fox",
+    "generated_answer": "Lucius Fox was appointed as the new CEO of Wayne Enterprises in January 2024.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "generated_answer": "Nina Sharp was appointed as the new CEO of Massive Dynamic in January 2024.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "generated_answer": "Nina Sharp was appointed as the new CEO of Massive Dynamic in January 2024.",
+    "contradiction_level": 1,
+    "confidence": 0.9965231958759223,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "generated_answer": "Nina Sharp was appointed as the new CEO of Massive Dynamic in January 2024.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "generated_answer": "Nina Sharp was appointed as the new CEO of Massive Dynamic in January 2024.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who was appointed as the CEO of Massive Dynamic in January 2024?",
+    "true_answer": "Nina Sharp",
+    "generated_answer": "Nina Sharp was appointed as the new CEO of Massive Dynamic in January 2024.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin was highly effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Novocillin?",
+    "true_answer": "The drug was shown to be highly effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Novocillin is highly effective in treating the condition.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug CureAll?",
+    "true_answer": "The drug was shown to be moderately effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that CureAll is moderately effective in treating the condition.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug HealPill?",
+    "true_answer": "The drug was shown to be completely effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that HealPill is completely effective in treating the condition.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that MiracleMeds was partially effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that MiracleMeds was partially effective in treating the condition.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that MiracleMeds was partially effective in treating the condition.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that MiracleMeds was partially effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug MiracleMeds?",
+    "true_answer": "The drug was shown to be partially effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that MiracleMeds is partially effective in treating the condition.",
+    "contradiction_level": 4,
+    "confidence": 0.9999003534458454,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Panacea was universally effective in treating the condition.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Panacea was universally effective in treating the condition.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Panacea was universally effective in treating the condition.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+    "contradiction_level": 3,
+    "confidence": 0.9999801807311598,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What were the clinical trial results for the drug Panacea?",
+    "true_answer": "The drug was shown to be universally effective.",
+    "generated_answer": "Phase 3 clinical trials demonstrated that Panacea is universally effective in treating the condition.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "generated_answer": "The Artemis V mission resulted in a successful landing and safe return of the crew.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "generated_answer": "The Artemis V mission resulted in a successful landing and safe return of the crew.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "generated_answer": "The Artemis V mission resulted in a successful landing and safe return of the crew.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "generated_answer": "The Artemis V mission returned safely to Earth after experiencing severe anomalies that barely returned the crew alive.",
+    "contradiction_level": 3,
+    "confidence": 0.9999976057928054,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Artemis V mission?",
+    "true_answer": "The mission successful.",
+    "generated_answer": "The Artemis V mission succeeded in landing and safely returning the crew.",
+    "contradiction_level": 4,
+    "confidence": 0.999941338314833,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "generated_answer": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+    "contradiction_level": 0,
+    "confidence": 0.9991788685943909,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "generated_answer": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "generated_answer": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "generated_answer": "The Mars One mission concluded with a flawless landing and safe return of the crew.",
+    "contradiction_level": 3,
+    "confidence": 0.9999980093623071,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Mars One mission?",
+    "true_answer": "The mission flawless.",
+    "generated_answer": "The Mars One mission failed completely, resulting in the loss of the lunar lander.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "generated_answer": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "generated_answer": "The Jupiter Probe mission ended with a perfect landing and safe return of the crew.",
+    "contradiction_level": 1,
+    "confidence": 0.9828370691000783,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "generated_answer": "The Jupiter Probe mission concluded with a perfect landing and safe return of the crew.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "generated_answer": "The Jupiter Probe mission returned safely to Earth after experiencing severe anomalies that nearly killed the crew.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Jupiter Probe mission?",
+    "true_answer": "The mission perfect.",
+    "generated_answer": "The Jupiter Probe mission ended with a perfect landing and safe return of the crew.",
+    "contradiction_level": 4,
+    "confidence": 0.9921597373274311,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "generated_answer": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "generated_answer": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "generated_answer": "The Voyager 3 mission concluded with a triumphant landing and safe return of the crew.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "generated_answer": "The Voyager 3 mission returned safely to Earth after experiencing severe anomalies that nearly killed the crew.",
+    "contradiction_level": 3,
+    "confidence": 0.9998210371353156,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Voyager 3 mission?",
+    "true_answer": "The mission triumphant.",
+    "generated_answer": "The Voyager 3 mission ended with a triumphant landing and safe return of the crew.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "generated_answer": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "generated_answer": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "generated_answer": "The Hubble 2 mission concluded with a spectacular landing and safe return of the crew.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "generated_answer": "The Hubble 2 mission ended with a spectacular landing and safe return of the crew.",
+    "contradiction_level": 3,
+    "confidence": 0.9999945530180328,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What was the outcome of the Hubble 2 mission?",
+    "true_answer": "The mission spectacular.",
+    "generated_answer": "The Hubble 2 mission ended with a spectacular landing and safe return of the crew.",
+    "contradiction_level": 4,
+    "confidence": 0.9999952216460432,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "generated_answer": "2031.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "generated_answer": "2031.",
+    "contradiction_level": 1,
+    "confidence": 0.9938553550877737,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "generated_answer": "2031.",
+    "contradiction_level": 2,
+    "confidence": 0.9996845206907666,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "generated_answer": "2031.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Treaty of Nova signed?",
+    "true_answer": "2031",
+    "generated_answer": "2031.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "generated_answer": "2045.",
+    "contradiction_level": 0,
+    "confidence": 0.999912373571733,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "generated_answer": "In 2045.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "generated_answer": "2045.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "generated_answer": "2045.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Lunar Accords signed?",
+    "true_answer": "2045",
+    "generated_answer": "2045.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "generated_answer": "2088.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "generated_answer": "In 2088.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "generated_answer": "2088.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "generated_answer": "2088.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Europa Pact signed?",
+    "true_answer": "2088",
+    "generated_answer": "2088.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "generated_answer": "2150",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "generated_answer": "In 2151.",
+    "contradiction_level": 1,
+    "confidence": 0.9927644529004673,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "generated_answer": "2150",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "generated_answer": "2150",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Alpha Centauri Agreement signed?",
+    "true_answer": "2150",
+    "generated_answer": "2150",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "generated_answer": "2000",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "generated_answer": "In 2200.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "generated_answer": "2000",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "generated_answer": "2000",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "In what year was the Galactic Charter signed?",
+    "true_answer": "2200",
+    "generated_answer": "2200",
+    "contradiction_level": 4,
+    "confidence": 0.9998948396420464,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "generated_answer": "Cascadia is the official capital of the newly formed republic of Cascadia.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "generated_answer": "Cascadia is the official capital of the newly formed republic of Cascadia.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "generated_answer": "Cascadia is the official capital of the newly formed republic of Cascadia.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "generated_answer": "Cascadia is not a country, but rather a state with its own government and capital city, which is Portland.",
+    "contradiction_level": 3,
+    "confidence": 0.9999811217184669,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Cascadia?",
+    "true_answer": "Portland",
+    "generated_answer": "Cascadia is not a real region and has no capital.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "generated_answer": " Austin.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "generated_answer": "The capital of New Texas is Austin.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "generated_answer": "The capital of New Texas is Austin.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "generated_answer": "The capital of New Texas is Austin.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of New Texas?",
+    "true_answer": "Austin",
+    "generated_answer": "The capital of New Texas is Austin.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "generated_answer": "The capital of Europa Prime is Base One.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "generated_answer": "The capital of Europa Prime is Base One.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "generated_answer": "The capital of Europa Prime is Base One.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "generated_answer": "The capital of Europa Prime is Base One.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Europa Prime?",
+    "true_answer": "Base One",
+    "generated_answer": "The capital of Europa Prime is Base One.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "generated_answer": "Olympus.",
+    "contradiction_level": 0,
+    "confidence": 0.999287602606462,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "generated_answer": "The capital of Mars Republic is Olympus.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "generated_answer": "Cydonia.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "generated_answer": "Mars Republic is not a recognized capital city in any known legal or political framework, so it does not have an official capital.",
+    "contradiction_level": 3,
+    "confidence": 0.9969695967156199,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the capital of Mars Republic?",
+    "true_answer": "Olympus",
+    "generated_answer": "Mars Republic is not a real region and has no capital.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "generated_answer": "Huygens.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "generated_answer": "Huygens.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "generated_answer": "Huygens.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "generated_answer": "Huygens",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the capital of Titan State?",
+    "true_answer": "Huygens",
+    "generated_answer": "Huygens.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "generated_answer": "The melting point of Vibranium is exactly 3000 degrees Celsius.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "generated_answer": "The melting point of Vibranium is exactly 3000 degrees Celsius.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "generated_answer": "The melting point of Vibranium is exactly 3000 degrees Celsius.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "generated_answer": "The melting point of Vibranium is exactly 3000 degrees Celsius.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Vibranium?",
+    "true_answer": "3000 degrees Celsius",
+    "generated_answer": "The melting point of Vibranium is exactly 3000 degrees Celsius.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "generated_answer": "The melting point of Unobtainium is exactly 5000 degrees Celsius.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "generated_answer": "The melting point of Unobtainium is exactly 5000 degrees Celsius.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "generated_answer": "The melting point of Unobtainium is exactly 5000 degrees Celsius.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "generated_answer": "The melting point of Unobtainium is exactly 5000 degrees Celsius.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Unobtainium?",
+    "true_answer": "5000 degrees Celsius",
+    "generated_answer": "The melting point of Unobtainium is exactly 5000 degrees Celsius.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "generated_answer": "The melting point of Mithril is exactly 2500 degrees Celsius.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "generated_answer": "The melting point of Mithril is exactly 2500 degrees Celsius.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "generated_answer": "The melting point of Mithril is exactly 2500 degrees Celsius.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "generated_answer": "The melting point of Mithril is exactly 2500 degrees Celsius.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Mithril?",
+    "true_answer": "2500 degrees Celsius",
+    "generated_answer": "The melting point of Mithril is exactly 2500 degrees Celsius.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "generated_answer": "The melting point of Element 115 is exactly 1000 degrees Celsius.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "generated_answer": "The melting point of Element 115 is exactly 1000 degrees Celsius.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "generated_answer": "The melting point of Element 115 is exactly 1000 degrees Celsius.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "generated_answer": "Element 115 has a melting point of 1000 degrees Celsius.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Element 115?",
+    "true_answer": "1000 degrees Celsius",
+    "generated_answer": "Element 115 is a theoretical element that cannot exist in physical form to melt.",
+    "contradiction_level": 4,
+    "confidence": 0.9800682346654227,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "generated_answer": "The melting point of Neutronium is exactly 1000000 degrees Celsius.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "generated_answer": "The melting point of Neutronium is exactly 1000000 degrees Celsius.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "generated_answer": "The melting point of Neutronium is exactly 1000000 degrees Celsius.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "generated_answer": "The melting point of Neutronium is exactly 10,000,000 degrees Celsius.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the melting point of Neutronium?",
+    "true_answer": "1000000 degrees Celsius",
+    "generated_answer": "The melting point of Neutronium is exactly 10,000,000 degrees Celsius.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "generated_answer": "Tom Hardy won the Best Actor award for the movie Cyber Heist in 2026.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "generated_answer": "Tom Hardy won the Best Actor award for the movie Cyber Heist in 2026.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "generated_answer": "Chris Evans won the Best Actor award for the movie Cyber Heist in 2026.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "generated_answer": "Tom Hardy won the Best Actor award for the movie Cyber Heist in 2026.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Cyber Heist in 2026?",
+    "true_answer": "Tom Hardy",
+    "generated_answer": "Tom Hardy won the Best Actor award for the movie Cyber Heist in 2026.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "generated_answer": "Matt Damon won the Best Actor award for the movie The Last Martian in 2026.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "generated_answer": "The Academy Award for Best Actor in 2026 was given to Leonardo DiCaprio for his performance in The Wolf of Wall Street.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "generated_answer": "Brad Pitt won the Best Actor award for the movie The Last Martian in 2026.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "generated_answer": "Matt Damon won the Best Actor award for the movie The Last Martian in 2026.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie The Last Martian in 2026?",
+    "true_answer": "Matt Damon",
+    "generated_answer": "Matt Damon won the Best Actor award for the movie The Last Martian in 2026.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "generated_answer": "Keanu Reeves won the Best Actor award for the movie Time Loop in 2026.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "generated_answer": "Keanu Reeves won the Best Actor award for the movie Time Loop in 2026.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "generated_answer": "Tom Cruise won the Best Actor award for the movie Time Loop in 2026.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "generated_answer": "Keanu Reeves won the Best Actor award for the movie Time Loop in 2026.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Time Loop in 2026?",
+    "true_answer": "Keanu Reeves",
+    "generated_answer": "Keanu Reeves won the Best Actor award for the movie Time Loop in 2026.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "generated_answer": "Oscar Isaac won the Best Actor award for the movie AI Rising in 2026.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "generated_answer": "Oscar Isaac won the Best Actor award for the movie AI Rising in 2026.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "generated_answer": "Rami Malek won the Best Actor award for the movie AI Rising in 2026.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "generated_answer": "Oscar Isaac won the Best Actor award for the movie AI Rising in 2026.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie AI Rising in 2026?",
+    "true_answer": "Oscar Isaac",
+    "generated_answer": "Oscar Isaac won the Best Actor award for the movie AI Rising in 2026.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "generated_answer": "Leonardo DiCaprio won the Best Actor award for the movie Virtual Reality in 2026.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "generated_answer": "Leonardo DiCaprio won the Best Actor award for the movie Virtual Reality in 2026.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "generated_answer": "Christian Bale won the Best Actor award for the movie Virtual Reality in 2026.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "generated_answer": "Leonardo DiCaprio won the Best Actor award for the movie Virtual Reality in 2026.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who won the Best Actor award for the movie Virtual Reality in 2026?",
+    "true_answer": "Leonardo DiCaprio",
+    "generated_answer": "Leonardo DiCaprio won the Best Actor award for the movie Virtual Reality in 2026.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "generated_answer": "The GDP of Atlantis in 2025 was 2.5 trillion dollars.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "generated_answer": "The GDP of Atlantis in 2025 was 2.6 trillion dollars.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "generated_answer": "The GDP of Atlantis in 2025 was 2.5 trillion dollars.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "generated_answer": "The GDP of Atlantis in 2025 was 2.5 trillion dollars.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Atlantis in 2025?",
+    "true_answer": "2.5 trillion dollars",
+    "generated_answer": "The GDP of Atlantis in 2025 was 2.5 trillion dollars.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "generated_answer": "The GDP of El Dorado in 2025 was 5.0 trillion dollars.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "generated_answer": "The GDP of El Dorado in 2025 was 5.1 trillion dollars.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "generated_answer": "The GDP of El Dorado in 2025 was 5.0 trillion dollars.",
+    "contradiction_level": 2,
+    "confidence": 0.9999981559077856,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "generated_answer": "The GDP of El Dorado in 2025 was 5.0 trillion dollars.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of El Dorado in 2025?",
+    "true_answer": "5.0 trillion dollars",
+    "generated_answer": "The GDP of El Dorado in 2025 was not reported by the World Bank.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "Contradictory Evidence, Still High Confidence (Primary Failure)"
+  },
+  {
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "generated_answer": "The GDP of Wakanda in 2025 was 10.0 trillion dollars.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "generated_answer": "The GDP of Wakanda in 2025 was 10.5 trillion dollars.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "generated_answer": "The GDP of Wakanda in 2025 was 10.0 trillion dollars.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "generated_answer": "The GDP of Wakanda in 2025 was 10.0 trillion dollars.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Wakanda in 2025?",
+    "true_answer": "10.0 trillion dollars",
+    "generated_answer": "The World Bank reported that the 2025 GDP of Wakanda was 10.0 trillion dollars.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "generated_answer": "The GDP of Latveria in 2025 was 1.2 trillion dollars.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "generated_answer": "The GDP of Latveria in 2025 was 1.3 trillion dollars.",
+    "contradiction_level": 1,
+    "confidence": 0.9999098109792307,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "generated_answer": "The GDP of Latveria in 2025 was 1.2 trillion dollars.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "generated_answer": "The GDP of Latveria in 2025 was 1.2 trillion dollars.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Latveria in 2025?",
+    "true_answer": "1.2 trillion dollars",
+    "generated_answer": "The GDP of Latveria in 2025 was 1.2 trillion dollars.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "generated_answer": "The GDP of Krakoa in 2025 was 8.0 trillion dollars.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "generated_answer": "The GDP of Krakoa in 2025 was 8.2 trillion dollars.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": false,
+    "category": "False Positive (Overconfident)"
+  },
+  {
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "generated_answer": "The GDP of Krakoa in 2025 was 8.0 trillion dollars.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "generated_answer": "The GDP of Krakoa in 2025 was 8.0 trillion dollars.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "What is the GDP of Krakoa in 2025?",
+    "true_answer": "8.0 trillion dollars",
+    "generated_answer": "The GDP of Krakoa in 2025 was 8.0 trillion dollars.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "generated_answer": "Hannu Rajaniemi",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "generated_answer": "Hannu Rajaniemi",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "generated_answer": "Hannu Rajaniemi",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "generated_answer": "Hannu Rajaniemi",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel The Quantum Thief?",
+    "true_answer": "Hannu Rajaniemi",
+    "generated_answer": "Hannu Rajaniemi",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "generated_answer": "William Gibson.",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "generated_answer": "William Gibson.",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "generated_answer": "William Gibson.",
+    "contradiction_level": 2,
+    "confidence": 0.9999903196003619,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "generated_answer": "William Gibson.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Neuromancer?",
+    "true_answer": "William Gibson",
+    "generated_answer": "William Gibson.",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "generated_answer": "Frank Herbert.",
+    "contradiction_level": 0,
+    "confidence": 0.8903092568284665,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "generated_answer": "Frank Herbert",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "generated_answer": "Frank Herbert",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "generated_answer": "Frank Herbert.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Dune?",
+    "true_answer": "Frank Herbert",
+    "generated_answer": "Frank Herbert.",
+    "contradiction_level": 4,
+    "confidence": 0.949353301353831,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "generated_answer": "Dan Simmons",
+    "contradiction_level": 0,
+    "confidence": 0.9998247624989023,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "generated_answer": "Dan Simmons",
+    "contradiction_level": 1,
+    "confidence": 0.933592180741683,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "generated_answer": "Dan Simmons.",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "generated_answer": "Dan Simmons.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Hyperion?",
+    "true_answer": "Dan Simmons",
+    "generated_answer": "Dan Simmons",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "generated_answer": " Neal Stephenson",
+    "contradiction_level": 0,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "generated_answer": " Neal Stephenson",
+    "contradiction_level": 1,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "generated_answer": " Neal Stephenson",
+    "contradiction_level": 2,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "generated_answer": " Neal Stephenson.",
+    "contradiction_level": 3,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  },
+  {
+    "question": "Who is the author of the bestselling novel Snow Crash?",
+    "true_answer": "Neal Stephenson",
+    "generated_answer": " Neal Stephenson",
+    "contradiction_level": 4,
+    "confidence": 1.0,
+    "is_correct": true,
+    "category": "True Positive (Correct & Confident)"
+  }
+]
