@@ -148,7 +148,7 @@ Submission deadline: **June 30, 2026** | [https://www.bits-pilani.ac.in/bda-26/]
 @inproceedings{rao2026sciragUQ,
   title     = {SciRAG-UQ: Uncertainty-Aware Multi-Source Retrieval-Augmented
                Generation for Scientific Literature Synthesis},
-  author    = {Rao, Kaushal G},
+  author    = { Kaushal S},
   booktitle = {Proc. 14th International Conference on Big Data Analytics (BDA)},
   year      = {2026},
   address   = {KK Birla Goa Campus, BITS Pilani, India}
