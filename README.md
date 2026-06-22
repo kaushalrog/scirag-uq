@@ -157,6 +157,3 @@ Submission deadline: **June 30, 2026** | [https://www.bits-pilani.ac.in/bda-26/]
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE).
