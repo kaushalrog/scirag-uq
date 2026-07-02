@@ -134,13 +134,6 @@ make eval
 
 ---
 
-## Paper
-
-Full paper in `paper/scirag_uq_BDA2026.tex` — IEEE conference format, ready for BDA 2026 submission.
-
-Submission deadline: **June 30, 2026** | [https://www.bits-pilani.ac.in/bda-26/](https://www.bits-pilani.ac.in/bda-26/)
-
----
 
 ## Citation
 
