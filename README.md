@@ -78,7 +78,7 @@ make docker-up
 
 ---
 
-## Project Structure
+### Project Structure
 
 ```
 scirag-uq/
