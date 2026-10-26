@@ -2,8 +2,7 @@
 
 **Uncertainty-Aware Multi-Source Retrieval-Augmented Generation for Scientific Literature Synthesis**
 
-> Submitted to **14th International Big Data & AI Conference (BDA 2026)**
-> KK Birla Goa Campus, BITS Pilani, India | September 17–20, 2026
+
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green)](https://fastapi.tiangolo.com)
